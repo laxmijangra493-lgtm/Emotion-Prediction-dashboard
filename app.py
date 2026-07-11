@@ -87,7 +87,8 @@ with st.sidebar:
 with st.sidebar:
     st.title("🧠 About the App")
     st.markdown("""
-    Welcome to the **Emotion Prediction Dashboard**! ✨
+    Welcome to the **Emotion Prediction Dashboard
+                by Bhavesh Kumar**! ❤️
     
     This application analyzes your text and detects the underlying emotion using Natural Language Processing (NLP).
     
@@ -104,7 +105,7 @@ with st.sidebar:
     """)
 
 # Main App UI
-st.title("✨ Emotion Prediction Dashboard")
+st.title("Emotion Prediction Dashboard by Bhavesh Kumar❤️")
 st.markdown("Type a sentence below, and our machine learning model will figure out the emotion behind it!")
 st.markdown("---")
 
